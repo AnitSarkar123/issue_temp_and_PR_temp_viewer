@@ -39,6 +39,12 @@ body:
         - label: "The changes don't break the code and don't introduce new functionality."
           required: true
 
+        - label: "Please attach the screenshots and video of the development work once it is done "
+          required: true
+        - label: "Contributions more than 3 will be awarded a certificate of appreciation from curious ecosystem  "
+          required: true
+        - label: "please mail to ([admin@curiousdevelopers.in](mailto:admin@curiousdevelopers.in)) for claiming certificate and please attach your issue numbers "
+          required: true
         - label: "I am willing to work on this issue (optional)."
           required: false
 
