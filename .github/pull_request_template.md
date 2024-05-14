@@ -6,7 +6,7 @@ Fixes # (issue)
 
 ## Type of change
 
-Please give a check on it which is applicable
+Please give a X on it which is applicable
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -27,6 +27,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 give screenshorts and vedio of the changes you made
 
 # Checklist:
+give a X on it which is applicable
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
