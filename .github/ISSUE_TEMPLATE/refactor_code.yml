@@ -1,7 +1,7 @@
 name: Refactor Code 🔧
  description: |
   Use this label for code refactoring tasks.
- Instructions:
+ ###Instructions:
   1. Stay you can start working on it by taking the latest pull from the main branch
   2. Please read the contributors guidelines [Contributing Guidelines](https://github.com/Curious-Ecosystem/Curious-Connect/blob/main/CONTRIBUTING.md).
   3. Please follow the code of conduct [Code Of Conduct](https://github.com/Curious-Ecosystem/Curious-Connect/blob/main/CODE_OF_CONDUCT.md)
