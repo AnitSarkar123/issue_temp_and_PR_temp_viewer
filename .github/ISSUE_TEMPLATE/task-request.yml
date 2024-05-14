@@ -31,6 +31,7 @@ body:
   - type: markdown
     attributes:
       value: "Stay you can start working on it by taking latest pull from main branch
+      
  
       Please read the contributors guidelines [Contributing Guidelines](https://github.com/Curious-Ecosystem/Curious-Connect/blob/main/CONTRIBUTING.md).
 
