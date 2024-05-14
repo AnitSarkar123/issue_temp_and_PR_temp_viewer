@@ -24,9 +24,7 @@ body:
     attributes:
       label: "Checklist"
       options:
-        - label: "I read the above instructions"
-          required: true
-
+        
         - label: "I have checked the existing [issues](https://github.com/Curious-Ecosystem/Curious-Connect/issues)."
           required: true
 
@@ -44,5 +42,4 @@ body:
         - label: "I am willing to work on this issue (optional)."
           required: false
 
-        - label: "I am willing to work on this issue (optional)."
-          required: false
+       
