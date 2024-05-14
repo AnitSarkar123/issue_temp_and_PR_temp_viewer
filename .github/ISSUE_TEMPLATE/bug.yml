@@ -23,11 +23,10 @@ body:
       required: false
   - type: dropdown
     attributes:
-       label: What browser are you seeing the problem on?
+      label: What browser are you seeing the problem on?
       multiple: true
       options:
         - Firefox
         - Chrome
         - Safari
         - Microsoft Edge
-
