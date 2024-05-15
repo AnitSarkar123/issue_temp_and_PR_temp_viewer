@@ -46,13 +46,13 @@ body:
         - label: "I joined onboarding group for knowledge flow and direct conversation and support from admins  [Curious Developers Community - Curious Connect](https://chat.whatsapp.com/FR0sVnpsSvL4J4l56vLdBN)"
           required: true
 
-        - label: "The changes don't break the code and don't introduce new functionality."
+        - label: "The changes don't break the code"
           required: true
         - label: "Please attach the screenshots and video of the development work once it is done "
           required: true
         - label: "Contributions more than 3 will be awarded a certificate of appreciation from curious ecosystem  "
           required: true
-        - label: "please mail to ([admin@curiousdevelopers.in](mailto:admin@curiousdevelopers.in)) for claiming certificate and please attach your issue numbers "
+        - label: "If you need any help please join the default  ([Google Meet Link](https://meet.google.com/bwp-aasw-xbk))"
           required: true
         - label: "I am willing to work on this issue (optional)."
           required: false
