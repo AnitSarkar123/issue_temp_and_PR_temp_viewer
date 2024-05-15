@@ -50,8 +50,6 @@ body:
           required: true
         - label: "Please attach the screenshots and video of the development work once it is done "
           required: true
-        - label: "Contributions more than 3 will be awarded a certificate of appreciation from curious ecosystem  "
-          required: true
         - label: "If you need any help please join the default  ([Google Meet Link](https://meet.google.com/bwp-aasw-xbk))"
           required: true
         - label: "I am willing to work on this issue (optional)."
