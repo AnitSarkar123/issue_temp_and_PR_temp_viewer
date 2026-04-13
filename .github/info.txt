@@ -1,1 +1,2 @@
 This is a Repo which is use for the issue templates and the pr template for all repo
+ in GSSOC for contribution
